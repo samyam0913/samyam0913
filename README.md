@@ -1,43 +1,170 @@
-### Hi! I am Samyam Giri, a tech learner. 👦👋
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="200" height="200"/>
-</div>
+<h1 align="center">Hi 👋, I'm Samyam Giri</h1>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast | Backend Developer</h3>
 
-### Languages and Tools 👨‍💻 :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+<p align="center">
+Building scalable backend systems, secure infrastructure, and automation tools with Python.
+</p>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+---
 
-### My Github Stats 📊 :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamyamCodesavvy&theme=dark&background=000000)](https://git.io/streak-stats)
-<!--
-**SamyamCodesavvy/SamyamCodesavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Bachelor's in **Electronics, Communication & Information Engineering**
+- 🔐 ISC2 **Certified in Cybersecurity (CC)**
+- 💻 Passionate about **Backend Engineering**, **Cybersecurity**, **Networking**, and **DevOps**
+- 🌱 Currently learning:
+  - Distributed Systems
+  - Microservices Architecture
+  - Kubernetes & Cloud Infrastructure
+  - Linux System Programming
+  - Advanced Network Security
+- 🚀 Interested in building production-ready software with security-first principles.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+---
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 NetWatch
+Production-ready network and infrastructure monitoring platform.
+
+**Features**
+- Real-time monitoring
+- Authentication & RBAC
+- Dockerized deployment
+- Prometheus & Grafana integration
+- PostgreSQL + FastAPI backend
+- React dashboard
+
+---
+
+### 🔹 LogGuard SIEM
+
+Security log analysis platform built with FastAPI.
+
+**Features**
+
+- Security log ingestion
+- Detection rules
+- Alert generation
+- JWT Authentication
+- PostgreSQL
+- REST API
+
+---
+
+### 🔹 Nepali Text-to-Speech Research
+
+Research focused on building high-quality multi-speaker Nepali TTS systems for news broadcasting.
+
+- Dataset preparation
+- Audio preprocessing
+- Text normalization
+- VITS2 model training
+- MOS Evaluation
+
+---
+
+## 📜 Certifications
+
+- ✅ ISC2 Certified in Cybersecurity (CC)
+- ✅ Python Data Structures — University of Michigan
+- ✅ Meta Front-End Development
+- ✅ Python Development Internship (CodSoft)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Harvard Health Hackathon Nepal Hub Winner
+- 🥇 Hult Prize OnCampus Winner
+- 🤖 Fusemachines AI Fellowship
+- 📝 Published Computer Vision Research Paper
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Build secure software. Automate everything. Never stop learning."*
