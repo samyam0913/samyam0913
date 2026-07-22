@@ -27,8 +27,6 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
@@ -39,6 +37,7 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
@@ -46,8 +45,6 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
@@ -55,6 +52,7 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 ---
@@ -71,79 +69,19 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 NetWatch
-Production-ready network and infrastructure monitoring platform.
-
-**Features**
-- Real-time monitoring
-- Authentication & RBAC
-- Dockerized deployment
-- Prometheus & Grafana integration
-- PostgreSQL + FastAPI backend
-- React dashboard
-
----
-
-### 🔹 LogGuard SIEM
-
-Security log analysis platform built with FastAPI.
-
-**Features**
-
-- Security log ingestion
-- Detection rules
-- Alert generation
-- JWT Authentication
-- PostgreSQL
-- REST API
-
----
-
-### 🔹 Nepali Text-to-Speech Research
-
-Research focused on building high-quality multi-speaker Nepali TTS systems for news broadcasting.
-
-- Dataset preparation
-- Audio preprocessing
-- Text normalization
-- VITS2 model training
-- MOS Evaluation
-
----
-
-## 📜 Certifications
-
-- ✅ ISC2 Certified in Cybersecurity (CC)
-- ✅ Python Data Structures — University of Michigan
-- ✅ Meta Front-End Development
-- ✅ Python Development Internship (CodSoft)
-
----
-
-## 🏆 Achievements
-
-- 🥇 Harvard Health Hackathon Nepal Hub Winner
-- 🥇 Hult Prize OnCampus Winner
-- 🤖 Fusemachines AI Fellowship
-- 📝 Published Computer Vision Research Paper
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samyam0913&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyam0913&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam0913&theme=tokyonight"/>
 
 </p>
 
@@ -153,11 +91,11 @@ Research focused on building high-quality multi-speaker Nepali TTS systems for n
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/samyam-giri-np">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samyam0913@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -167,4 +105,4 @@ Research focused on building high-quality multi-speaker Nepali TTS systems for n
 
 ## 💡 Quote
 
-> *"Build secure software. Automate everything. Never stop learning."*
+> *"ever stop learning."*
