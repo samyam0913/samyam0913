@@ -66,6 +66,7 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 ---
 
