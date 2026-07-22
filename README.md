@@ -73,14 +73,6 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samyam0913&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyam0913&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam0913&theme=tokyonight"/>
 
 </p>
@@ -105,4 +97,4 @@ Building scalable backend systems, secure infrastructure, and automation tools w
 
 ## 💡 Quote
 
-> *"ever stop learning."*
+> *"Never stop learning."*
